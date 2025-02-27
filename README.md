@@ -11,7 +11,7 @@
     <b>makanan usantara</b>
     <p>makanan khas indonesia yang berasaldari berbagai wilayah di kepulauan indonesia</p>
     </ul>
-<ul type="square">
+
         <li>sumatera barat</li>
         <li>Jakarta</li>
         <li>jawa barat</li>
